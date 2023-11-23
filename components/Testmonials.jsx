@@ -19,7 +19,7 @@ const Testmonials = () => {
               key={indx}
               className={`${
                 item.vip ? "bg-orange-400" : "bg-white"
-              } flex flex-col items-center  max-w-[536px] rounded-[30px] mx-4 my-10 sm:my-6 shadow-lg bg-white px-[50px] hover:-translate-y-3`}
+              } flex flex-col items-center  max-w-[536px] rounded-[30px] mx-4 my-11 lg:my-7 shadow-lg px-[50px] hover:-translate-y-3`}
             >
               <img
                 src={item.img}
