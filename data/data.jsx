@@ -6,6 +6,7 @@ export const data = [
     name: "John Smith",
     tile: "Travel Blogger",
     rate: 5,
+    vip: false,
   },
   {
     img: "/pexels-vlad-chețan.png",
@@ -14,7 +15,7 @@ export const data = [
     name: "John Smith",
     tile: "Travel Blogger",
     rate: 5,
-    vip: "vip",
+    vip: true,
   },
   {
     img: "/pexels-andrea-piacquadio-846741@2x.png",
@@ -23,5 +24,6 @@ export const data = [
     name: "John Smith",
     tile: "Travel Blogger",
     rate: 5,
+    vip: false,
   },
 ];
